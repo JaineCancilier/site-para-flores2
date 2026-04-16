@@ -1,0 +1,10 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0;
+}
+
+img2 {
+    width: 100;
+    max-width: 300;
+    border-radius: 40%;
+}
